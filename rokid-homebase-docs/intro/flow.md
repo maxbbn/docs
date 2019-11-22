@@ -20,7 +20,7 @@
   - 营业执照照片
     ![Alt text](../images/1551271617264.png)
 - 如果您是 [_局域网对接_](../connect/via-lan.md) 或 [_局域网自动发现_](../connect/ssdp-auto-discovery.md)：
-  - 和商务签订芋头科技 IoT 接入协议，详情请咨询对接商务经理， 点击这里 [_提交表单_](https://www.jiandaoyun.com/f/5bf12d873595611f6478c525)；
+  - 和商务签订芋头科技 IoT 接入协议，详情请咨询对接商务经理， 点击这里 [_提交表单_](https://www.jiandaoyun.com/f/5bf12d873595611f6478c525)
 
 ## 厂商接入
 
